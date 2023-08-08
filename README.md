@@ -1,4 +1,4 @@
-### Hi there 👋, Gabriel Franklin
+### Hi there 👋
 #### Back-end Development
 ![Back-end Development](https://i.imgur.com/LbircTF.jpg)
 

@@ -1,5 +1,5 @@
-### Hi there 👋
-#### Back-end Development
+### <h1>Hi there 👋</h1>
+#### <h3 align="left">Back-end Development</h3>
 ![Back-end Development](https://i.imgur.com/LbircTF.jpg)
 
 I'm a brazilian full-stack ( mostly back-end ) developer. I study Controls and Automation Engineering at UFMG. I really enjoy learning about new languages and frameworks such as Python with Flask, and NodeJS. My main skills and what I like to work with is back-end developing making API's, data science and webscrapping.

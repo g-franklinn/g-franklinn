@@ -6,6 +6,7 @@ I'm a brazilian full-stack ( mostly back-end ) developer. I study Controls and A
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-franklin-593162275/) or follow me here on GitHub to stay updated with my latest projects.
 
 <h3 align="left">Tech Stack:</h3>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
